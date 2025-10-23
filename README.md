@@ -1,2 +1,28 @@
-# AujCoin-
-Project Description (English Version): AujCoin is a digital asset built on the BNB Smart Chain (BEP-20), aiming to become the leading investment-oriented cryptocurrency in the Arab world and emerging markets. The project is driven by a strong vision of empowering a knowledgeable, engaged, and growth-focused investor community that contributes 
+
+# AujCoin (BEP-20)
+
+## وصف المشروع
+**مجتمع الرؤية والأهداف**
+
+تتمثل رؤية AujCoin BSC في أن تصبح العملة الرقمية الرائدة للاستثمار في العالم العربي والأسواق الناشئة. نسعى
+إلى بناء مجتمع من المستثمرين المتعلمين والملتزمين الذين يشاركون في صنع مستقبل العملة.
+
+### الأهداف الرئيسية:
+- توفير عوائد استثمارية مستدامة.
+- بناء نظام بيئي متكامل يدعم التطوير المستمر.
+- ضمان الشفافية والعدالة في جميع العمليات.
+
+## التقنية والهندسة
+- الشبكة: BNB Smart Chain (BEP-20)
+- آلية الإجماع: Proof of Staked Authority (PoSA)
+- مكتوب بلغة Solidity، مع التركيز على الأمان والكفاءة
+
+## الروابط
+- الموقع: [https://aujcoin.netlify.app](https://aujcoin.netlify.app)
+- تيلجرام: [https://t.me/AujCoinBsc](https://t.me/AujCoinBsc)
+- تويتر: [https://x.com/aujcoinbsc?s=21](https://x.com/aujcoinbsc?s=21)
+
+## العقد
+- عنوان العقد: 0x3db8a6f955d5a2d9bcaef89f8a86ed79318d4444
+- الاسم: AujCoin
+- الرمز: auj
